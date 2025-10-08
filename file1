@@ -1,8 +1,1 @@
-#include<stdio.h>
-int main()
-{
-char name[]="jhansi";
-printf("%s",name);
-return 0;
-}
-
+printf("welcome to thundersoft!!!");
